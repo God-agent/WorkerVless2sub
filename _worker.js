@@ -5,14 +5,14 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认8443，不支持非TLS订阅生成
 let addresses = [
-	'www.visa.com.hk:2096#假装是香港',
-	'icook.tw:2053#假装是台湾',
-	'cloudflare.cfgo.cc#真的是美国'
+	'www.visa.com.hk:2096#了解更多t.me/liusun666',
+	'icook.tw:2053#加入频道t.me/+vGsMY8tJPeg3ZDNh',
+	'cloudflare.cfgo.cc#我不是笋神'
 ];
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt' //可参考内容格式 自行搭建。
+	'https://raw.githubusercontent.com/God-agent/WorkerVless2sub/main/addressesapi.txt' //可参考内容格式 自行搭建。
 ];
 
 let DLS = 4;//速度下限
