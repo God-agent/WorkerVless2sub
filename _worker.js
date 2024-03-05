@@ -17,9 +17,9 @@ let addressesapi = [
 
 let DLS = 10;//速度下限
 let addressescsv = [
-'https://raw.githubusercontent.com/yukin0707/yxip/main/31898-1709485549.csv' ,
-'https://raw.githubusercontent.com/yukin0707/yxip/main/396982-1709487927.csv' ,
-'https://raw.githubusercontent.com/yukin0707/yxip/main/45102-1709208170.csv' ,	
+//'https://raw.githubusercontent.com/yukin0707/yxip/main/31898-1709485549.csv' ,
+//'https://raw.githubusercontent.com/yukin0707/yxip/main/396982-1709487927.csv' ,
+//'https://raw.githubusercontent.com/yukin0707/yxip/main/45102-1709208170.csv' ,	
 ];
 
 let subconverter = "api.v1.mk"; //在线订阅转换后端，目前使用肥羊的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
