@@ -5,9 +5,9 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认8443，不支持非TLS订阅生成
 let addresses = [
-	'www.visa.com.hk:2096#了解更多t.me/liusun666',
-	'icook.tw:2053#加入频道t.me/+vGsMY8tJPeg3ZDNh',
-	'cloudflare.cfgo.cc#我不是笋神'
+	'104.16.6.41:2096#了解更多t.me/liusun666',
+	'162.159.60.142:2053#加入频道t.me/+vGsMY8tJPeg3ZDNh',
+	'104.16.50.187:2053#我不是笋神'
 ];
 
 // 设置优选地址api接口
